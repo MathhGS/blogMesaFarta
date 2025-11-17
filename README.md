@@ -42,4 +42,4 @@ Por ser um projeto web estático (front-end puro), não é necessária nenhuma i
 
 ## 👨💻 Autores
 
-Desenvolvido por **Fernanda Rodrigues da Silva e Matheus Gonçalves da Silva** como parte do trabalho da Universidade.
+Desenvolvido por **Fernanda Rodrigues da Silva e Matheus Gonçalves da Silva** como parte do trabalho da Universidade. 
