@@ -1,13 +1,13 @@
 document.addEventListener("DOMContentLoaded", function() {
     
-    fetch("_header.html") 
+    fetch("components/header.html") 
         .then(response => response.text()) 
         .then(data => {
             const headerPlaceholder = document.getElementById("header-placeholder")
             if (headerPlaceholder) headerPlaceholder.innerHTML = data;
         })
 
-    fetch("_footer.html") 
+    fetch("components/footer.html") 
         .then(response => response.text()) 
         .then(data => {
             const footerPlaceholder = document.getElementById("footer-placeholder")
